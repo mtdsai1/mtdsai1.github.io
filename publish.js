@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'/', 
-	'/', 
-    '/',
+	'bcsbsofvr.cc/', 
+	'bcsbsofvr.cc/', 
+    'bcsbsofvr.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://mtdsai.com";
+var JumpPage="https://slzfqqtzl.cc";
 
 var newestUrls = [];
 
@@ -51,8 +51,8 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://mtdsai.pages.dev',
-	'https://mtdsai.github.io/',
+	'https://mtdsai1.pages.dev',
+	'https://mtdsai1.github.io/',
 ];
 var foreverUrls = [
 	  'https://mtdsai.net',
