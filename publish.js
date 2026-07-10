@@ -42,7 +42,7 @@ var urls=[
     'bcsbsofvr.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://mtds1.net";
+var JumpPage="https://mtds2.net";
 
 var newestUrls = [];
 
