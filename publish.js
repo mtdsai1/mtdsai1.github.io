@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'opjtgufs.cc/', 
+	'hyruzbuv.cc/', 
 	'bcsbsofvr.cc/', 
     'bcsbsofvr.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://mtds3.net";
+var JumpPage="https://mtds4.net";
 
 var newestUrls = [];
 
