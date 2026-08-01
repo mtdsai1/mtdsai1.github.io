@@ -42,7 +42,7 @@ var urls=[
     'mettjpst.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://mtds5.net";
+var JumpPage="https://mtds6.net";
 
 var newestUrls = [];
 
