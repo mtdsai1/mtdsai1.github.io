@@ -39,7 +39,7 @@ var emails = [
 var urls=[
 	'pvxgkunw.cc/', 
 	'bcsbsofvr.cc/', 
-    'bcsbsofvr.cc/',
+    'mettjpst.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://mtds5.net";
