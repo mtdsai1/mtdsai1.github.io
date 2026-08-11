@@ -42,7 +42,7 @@ var urls=[
     'wdyvdrte.com',
 ];                                                                                                                  
 
-var JumpPage="https://mtds6.net";
+var JumpPage="https://mtds7.net";
 
 var newestUrls = [];
 
