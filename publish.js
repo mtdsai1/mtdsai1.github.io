@@ -39,10 +39,10 @@ var emails = [
 var urls=[
 	'pvxgkunw.cc/', 
 	'cporahulr.com', 
-    'kzkwxeje.cc/',
+    'neapvgdm.com',
 ];                                                                                                                  
 
-var JumpPage="https://mtds7.net";
+var JumpPage="https://mtds8.net";
 
 var newestUrls = [];
 
