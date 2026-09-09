@@ -39,7 +39,7 @@ var emails = [
 var urls=[
 	'pvxgkunw.cc/', 
 	'cporahulr.com', 
-    'neapvgdm.com',
+    'ajgizzeb.com',
 ];                                                                                                                  
 
 var JumpPage="https://mtds8.net";
