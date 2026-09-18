@@ -57,7 +57,7 @@ var otherUrls = [
 var foreverUrls = [
 	  'https://mtdsai.net',
 	JumpPage,
-	'https://mtdsai.com',
+	'https://mrds365.com',
 	
 ];
 var notices = [
