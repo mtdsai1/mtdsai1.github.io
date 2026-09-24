@@ -42,7 +42,7 @@ var urls=[
     'ajgizzeb.com',
 ];                                                                                                                  
 
-var JumpPage="https://mtds8.net";
+var JumpPage="https://synwinicz.cc";
 
 var newestUrls = [];
 
