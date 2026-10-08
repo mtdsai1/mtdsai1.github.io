@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'pvxgkunw.cc/', 
-	'cporahulr.com', 
-    'iberdjhpm.cc/',
+	'pvxgkunw.cc',
+	'cporahulr.com',
+	'iberdjhpm.cc',
 ];                                                                                                                  
 
 var JumpPage="https://mtds11.net";
