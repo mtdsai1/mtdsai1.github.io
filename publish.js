@@ -42,7 +42,7 @@ var urls=[
 	'cporahulr.com',
 ];                                                                                                                  
 
-var JumpPage="https://mtds12.net";
+var JumpPage="https://mtds13.net";
 
 var newestUrls = [];
 
