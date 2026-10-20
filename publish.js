@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'06k6rzqxh.cc',
 	'ln74y48n.com',
 	'mr52e64m.cc',
-	'mo62b75p.cc',
 ];                                                                                                                  
 
 var JumpPage="https://mtds13.net";
