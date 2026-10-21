@@ -42,7 +42,7 @@ var urls=[
 	'mr52e64m.cc',
 ];                                                                                                                  
 
-var JumpPage="https://mtds13.net";
+var JumpPage="https://mtds14.net";
 
 var newestUrls = [];
 
