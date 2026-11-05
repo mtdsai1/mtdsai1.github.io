@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'whoceqck.cc',
 	'zbykflrgj.cc',
 	'zgpnfxjl.cc',
-	'o13xos4ka.cc',
 ];                                                                                                                  
 
 var JumpPage="https://mtds16.net";
