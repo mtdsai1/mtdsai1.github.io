@@ -42,7 +42,7 @@ var urls=[
 	'zbykflrgj.cc',
 ];                                                                                                                  
 
-var JumpPage="https://mtds16.net";
+var JumpPage="https://mtds17.net";
 
 var newestUrls = [];
 
