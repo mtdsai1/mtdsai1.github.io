@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
+	'nuqrhrpm.cc',
 	'lykqdsaa.cc',
 	'pevpcxjtl.cc',
-	'vheivebeh.cc',
 ];                                                                                                                  
 
-var JumpPage="https://mtds18.net";
+var JumpPage="https://mtds20.net";
 
 var newestUrls = [];
 
