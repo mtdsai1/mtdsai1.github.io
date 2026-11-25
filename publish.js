@@ -42,7 +42,7 @@ var urls=[
 	'lykqdsaa.cc',
 ];                                                                                                                  
 
-var JumpPage="https://mtds20.net";
+var JumpPage="https://plqotcqz.cc";
 
 var newestUrls = [];
 
